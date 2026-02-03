@@ -16,18 +16,18 @@ cd C:\Code\steamstore
 git add .
 git commit -m "Initial commit: Add support badge images for Flipworld"
 git branch -M main
-git remote add origin https://github.com/[YOUR_USERNAME]/steamstore.git
+git remote add origin https://github.com/Promeduz/steamstore.git
 git push -u origin main
 ```
 
-Replace `[YOUR_USERNAME]` with your GitHub username.
+**Note:** Repository is already set up and pushed to GitHub.
 
 ## Using the Images
 
 Once pushed, you can use the raw GitHub URLs. For example, for Flipworld:
 
-- **64px badge:** `https://raw.githubusercontent.com/[YOUR_USERNAME]/steamstore/main/flipworld/support_badge_64.png`
-- **256px badge:** `https://raw.githubusercontent.com/[YOUR_USERNAME]/steamstore/main/flipworld/support_badge_256.png`
+- **64px badge:** `https://raw.githubusercontent.com/Promeduz/steamstore/main/flipworld/support_badge_64.png`
+- **256px badge:** `https://raw.githubusercontent.com/Promeduz/steamstore/main/flipworld/support_badge_256.png`
 
 These URLs can be used directly in Steam store pages, HTML, or any other application that accepts image URLs.
 

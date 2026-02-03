@@ -26,10 +26,8 @@ Support badge images for Flipworld Steam store page:
 
 To use these images in your Steam store page or other applications, you can reference them using GitHub's raw content URLs:
 
-- 64px: `https://raw.githubusercontent.com/[username]/steamstore/main/flipworld/support_badge_64.png`
-- 256px: `https://raw.githubusercontent.com/[username]/steamstore/main/flipworld/support_badge_256.png`
-
-Replace `[username]` with your GitHub username.
+- 64px: `https://raw.githubusercontent.com/Promeduz/steamstore/main/flipworld/support_badge_64.png`
+- 256px: `https://raw.githubusercontent.com/Promeduz/steamstore/main/flipworld/support_badge_256.png`
 
 ## Adding New Games
 
