@@ -17,17 +17,18 @@ steamstore/
 
 ## Flipworld
 
-Support badge images for Flipworld Steam store page:
+Store page image assets for Flipworld.
 
-- `flipworld/support_badge_64.png` - 64x64 pixel version
-- `flipworld/support_badge_256.png` - 256x256 pixel version
+### Recommended (High Quality)
+Use these for the best appearance on all displays (Steam will scale them down):
 
-### Raw GitHub URLs
+- **Support Badge:** `https://raw.githubusercontent.com/Promeduz/steamstore/main/flipworld/support_badge_256.png`
+- **Ironheart Item:** `https://raw.githubusercontent.com/Promeduz/steamstore/main/flipworld/item_ironheart_256.png`
 
-To use these images in your Steam store page or other applications, you can reference them using GitHub's raw content URLs:
+### Legacy/Small Versions
+- `flipworld/support_badge_64.png` (Note: actually 128px)
+- `flipworld/item_ironheart_64.png` (Note: actually 64px)
 
-- 64px: `https://raw.githubusercontent.com/Promeduz/steamstore/main/flipworld/support_badge_64.png`
-- 256px: `https://raw.githubusercontent.com/Promeduz/steamstore/main/flipworld/support_badge_256.png`
 
 ## Adding New Games
 

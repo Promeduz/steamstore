@@ -24,10 +24,13 @@ git push -u origin main
 
 ## Using the Images
 
-Once pushed, you can use the raw GitHub URLs. For example, for Flipworld:
+Once pushed, you can use the raw GitHub URLs. It is recommended to use the **256px** versions for both consistency and quality, as Steam will scale them down as needed.
 
-- **64px badge:** `https://raw.githubusercontent.com/Promeduz/steamstore/main/flipworld/support_badge_64.png`
-- **256px badge:** `https://raw.githubusercontent.com/Promeduz/steamstore/main/flipworld/support_badge_256.png`
+### Flipworld URLs
+
+- **Support Badge (256px):** `https://raw.githubusercontent.com/Promeduz/steamstore/main/flipworld/support_badge_256.png`
+- **Ironheart Item (256px):** `https://raw.githubusercontent.com/Promeduz/steamstore/main/flipworld/item_ironheart_256.png`
+
 
 These URLs can be used directly in Steam store pages, HTML, or any other application that accepts image URLs.
 
